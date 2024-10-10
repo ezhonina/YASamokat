@@ -23,7 +23,7 @@
         ELSE 0 END AS status 
         FROM "Orders";
 5. Автоматизация теста к API
-URLстенда  https://933d3f13-af9d-46b0-9481-a2882ff5e51b.serverhub.praktikum-services.ru
+URLстенда  https://799951df-fec3-4909-bd88-cd152a2ab017.serverhub.praktikum-services.ru/
 Шаги автотеста:
 Выполнить запрос на создание заказа
 Сохранить номер трека заказа
